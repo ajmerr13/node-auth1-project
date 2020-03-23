@@ -10,4 +10,4 @@ exports.seed = function(knex) {
         {id: 3, username: 'third',password:'passWod'}
       ]);
     });
-};
+}; 
